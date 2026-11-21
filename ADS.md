@@ -21,6 +21,18 @@ Find niche hashtags that actually convert Built for creators, with no account or
 2/ Find niche hashtags that actually convert Built for creators, with no account or subscription required.
 3/ $7, no signup: https://LinuxGuru999.github.io/shotgun-hashtag-research-prompts/
 
+## Directory listing (Product Hunt / Uneed / Peerlist / SaaSHub)
+Name: Hashtag Research Prompts
+Tagline: Find niche hashtags that actually convert
+Description: Find niche hashtags that actually convert Built for creators, with no account or subscription required.
+One-line pitch: Find niche hashtags that actually convert No signup, $7, instant download.
+Link: https://LinuxGuru999.github.io/shotgun-hashtag-research-prompts/
+
+## Email / DM (warm list)
+Subject: A small tool for creators
+Body: Hey — I made Hashtag Research Prompts because find niche hashtags that actually convert. No signup, $7, instant download. If it's useful: https://LinuxGuru999.github.io/shotgun-hashtag-research-prompts/. If not, tell me what you actually need.
+
 ## Notes
 - Post manually from your own account; do not mass-post.
 - Space posts 2-3 days apart and tailor the tone.
+- Add ?src=<portal> to the storefront URL to attribute traffic.
